@@ -1,1 +1,1 @@
-# retropc
+# retropcに関するメモ置き場
