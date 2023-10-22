@@ -12,5 +12,5 @@
 `imgmount q /Users/naohirofujie/Games/PNAUTS/P_NAUTS.cue`
 
 * 起動(`boot -l a` ではなくautoexecを使う)  
-`cd a:`  
+`a:`  
 `a:> autoexec.bat`
